@@ -2,11 +2,14 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicklin37.github.io/website/",
+  "homepage": "https://nicklin37.gitub.io/website/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.3",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1"
   },
   "scripts": {
