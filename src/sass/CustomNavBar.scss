@@ -1,0 +1,43 @@
+$primary-color: black;
+$secondary-color: pink;
+
+nav.navbar, .navbar-default{
+    background-color: $primary-color !important;
+    height: 3em;
+    margin-bottom: 0;
+}
+
+.navbar-default{
+    background-image: none;
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: $secondary-color;
+}
+.navbar-default .navbar-brand{
+    color: $secondary-color;
+}
+
+.navbar-default .navbar-toggle{
+    border-color: $secondary-color;
+}
+
+.navbar-default .navbar-toggle, .icon-bar {
+    background-color: $secondary-color;
+}
+
+.navbar-default, .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+    color: $secondary-color;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+    color: $secondary-color;
+    background-color: transparent;
+}

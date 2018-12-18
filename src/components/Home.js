@@ -6,14 +6,25 @@ import '../styles/Home.css';
 export default class Home extends Component{
     render(){
         return(
-            <Grid>
-                <Jumbotron>
-                    <h2>I'm Nick Lin</h2>
-                </Jumbotron>
-                <Link to="/about">
-                    <Button bsStyle="primary">About</Button>
-                </Link>
-            </Grid>
+            <div className="mainbackground">
+                <Grid   >
+                    <Jumbotron>
+                        <h2>Nicholas Lin</h2>
+                        <p>I'm an undergraduate computer science student passionate 
+                            about building scalable projects and programming. Click on the explore 
+                            to learn more about me!</p>
+                        <Link to="/about">
+                            <div id="button">
+                                <Button bsStyle="primary">Explore</Button>
+                            </div>
+                        </Link>
+                    </Jumbotron>
+                    <Row className="">
+
+                    </Row>
+                </Grid>
+            </div>
+            
         );
     }
 }

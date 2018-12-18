@@ -1,0 +1,24 @@
+.mainbackground{
+    background-color: pink;
+}  
+
+.jumbotron{
+    text-align: center;
+    padding-top: 15%;
+    width: 100%;
+    height: 1900px;
+    background-color: transparent;
+}
+
+.jumbotron p{
+    width: 50%;
+    margin-left: 50%;
+    transform: translate(-50%)
+}
+
+#button{
+    justify-content: center;
+    align-items: center;
+    color: pink;
+    border: none;
+}
