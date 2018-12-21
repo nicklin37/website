@@ -18,7 +18,7 @@ export default class CustomNavBar extends Component{
                             <NavItem eventKey={1} componentClass={Link} to="/website">
                                 Home
                             </NavItem>
-                            <NavItem eventKey={2} componentClass={Link} to="/about">
+                            <NavItem eventKey={2} componentClass={Link} href="#about" to="#about">
                                 About
                             </NavItem>
                             <NavItem eventKey={2} componentClass={Link} to="/projects">

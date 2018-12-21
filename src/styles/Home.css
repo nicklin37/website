@@ -1,11 +1,11 @@
 .mainbackground {
-  background-color: pink; }
+  background-color: white; }
 
 .jumbotron {
   text-align: center;
   padding-top: 15%;
   width: 100%;
-  height: 1900px;
+  height: 100vh;
   background-color: transparent; }
 
 .jumbotron p {
@@ -16,7 +16,17 @@
 #button {
   justify-content: center;
   align-items: center;
-  color: pink;
+  color: white;
   border: none; }
+
+#about {
+  align-items: center;
+  text-align: center;
+  padding-bottom: 20px; }
+
+.about-photo {
+  height: 200px;
+  width: 200px;
+  object-fit: cover; }
 
 /*# sourceMappingURL=Home.css.map */

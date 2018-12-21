@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "imageurl": "assets/ucla.jpg",
+        "title": "University of California, Los Angeles",
+        "subtitle": "B.S. in Computer Science, Graduating June 2021",
+        "desc": "schooling is cool!"
+    },
+
+    {
+        "id": 2,
+        "imageurl": "assets/ehealth.jpg",
+        "title": "E-Health Research Lab, UCLA",
+        "subtitle": "Software Engineering Intern, Summer 2018",
+        "desc": "oooh i love research"
+    },
+
+    {
+        "id": 3,
+        "imageurl": "assets/esuc.png",
+        "title": "Engineering Society of UCLA",
+        "subtitle": "External Vice President 2018-2019",
+        "desc": "esuc rocks!"
+    },
+
+    {
+        "id": 4,
+        "imageurl": "assets/db.png",
+        "title": "Daily Bruin",
+        "subtitle": "Software Engineer, March 2018-Present",
+        "desc": "this is so cool!"
+    }
+    
+]
