@@ -1,0 +1,11 @@
+#about {
+  align-items: center;
+  text-align: center;
+  padding-bottom: 20px; }
+
+.about-photo {
+  height: 200px;
+  width: 200px;
+  object-fit: cover; }
+
+/*# sourceMappingURL=About.css.map */
