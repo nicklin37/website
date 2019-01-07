@@ -9,14 +9,14 @@ export default class Home extends Component {
   render() {
     return (
       <div className="mainbackground">
-        <Grid>
-          <Jumbotron>
+        
+          <div className="jumbotron">
             <h2>Nicholas Lin</h2>
-            <p>
+            {/* <p>
               I'm an undergraduate computer science student passionate about
               building scalable projects and programming. Click on the explore
               to learn more about me!
-            </p>
+            </p> */}
             <Link to="/about">
               <div id="button">
                 <Button bsStyle="primary" href="#about">
@@ -24,10 +24,10 @@ export default class Home extends Component {
                 </Button>
               </div>
             </Link>
-          </Jumbotron>
+          </div>
           <About />
           <Projects />
-        </Grid>
+        
       </div>
     );
   }
