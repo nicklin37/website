@@ -10,7 +10,7 @@ export default class Home extends Component {
     return (
       <div className="mainbackground">
         
-          <div className="jumbotron">
+          <div className="picture">
             <h2>Nicholas Lin</h2>
             {/* <p>
               I'm an undergraduate computer science student passionate about

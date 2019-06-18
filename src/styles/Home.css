@@ -1,17 +1,18 @@
 .mainbackground {
-  background-color: white; }
+  background-color: white;
+  height: 100vh; }
 
-.jumbotron {
+.picture {
   text-align: center;
   padding-top: 15%;
   margin: 0;
   padding-left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url("../data/edit_5.jpg") !important;
+  background-position: 50% 50%;
+  height: 80%;
+  background-image: url("../data/background_pic.jpg") !important;
   background-size: cover; }
 
-.jumbotron p {
+.picture p {
   width: 50%;
   margin-left: 50%;
   transform: translate(-50%); }
@@ -19,7 +20,7 @@
 #button {
   justify-content: center;
   align-items: center;
-  color: white;
+  color: darkblue;
   border: none; }
 
 /*# sourceMappingURL=Home.css.map */

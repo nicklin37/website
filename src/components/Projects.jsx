@@ -8,7 +8,7 @@ export default class Projects extends Component{
         return(
             <div>
                 <h1 id="projects">Here are some projects that I've done</h1>
-                    <ul>
+                    <ul className="project-field">
                         {projects.map((postDetail)=>{
                             return(
                                 <Col xs={12} sm={4} md={4} lg={4}>

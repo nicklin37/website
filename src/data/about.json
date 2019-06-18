@@ -4,14 +4,14 @@
         "imageurl": "assets/ucla.jpg",
         "title": "University of California, Los Angeles",
         "subtitle": "B.S. in Computer Science, Graduating June 2021",
-        "desc": "schooling is cool!"
+        "desc": "Highlighted coursework: Algorithms, Programming Languages, Operating Systems, Database Systems, Probability Theory, Linear Algebra, Computer Architecture"
     },
 
     {
         "id": 2,
         "imageurl": "assets/ehealth.jpg",
         "title": "E-Health Research Lab, UCLA",
-        "subtitle": "Software Engineering Intern, Summer 2018",
+        "subtitle": "Software Developer, May 2018-Present",
         "desc": "oooh i love research"
     },
 
@@ -19,7 +19,7 @@
         "id": 3,
         "imageurl": "assets/esuc.png",
         "title": "Engineering Society of UCLA",
-        "subtitle": "External Vice President 2018-2019",
+        "subtitle": "President, 2019-Present \nExternal Vice President, 2018-2019",
         "desc": "esuc rocks!"
     },
 
@@ -27,7 +27,7 @@
         "id": 4,
         "imageurl": "assets/db.png",
         "title": "Daily Bruin",
-        "subtitle": "Software Engineer, March 2018-Present",
+        "subtitle": "Software Engineer, March 2018-May 2019",
         "desc": "this is so cool!"
     }
     
