@@ -1,11 +1,13 @@
 .mainbackground {
   background-color: white;
-  height: 100vh; }
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif; }
 
 .picture {
   text-align: center;
   padding-top: 15%;
-  margin: 0;
+  padding-bottom: 0;
+  margin: 0 0 0 0;
   padding-left: 0;
   background-position: 50% 50%;
   height: 80%;

@@ -3,42 +3,70 @@
         "id": 1,
         "imageurl": "assets/pic-it.png",
         "title": "Pic-It",
-        "desc": "this is a description"
+        "desc": "Decide amongst your friends where to eat and find local results! Join or host a lobby with your friends to vote on random pictures of food. I worked on connecting Google Firebase to our application to use it as both a server and database. I also implemented the algorithm for computing the results of food picture polling. Technologies: Android, Java, Google Firebase",
+        "extras": "",
+        "demolink": "",
+        "codelink": "https://github.com/nicklin37/Pic-It"
     },
 
     {
         "id": 2,
-        "imageurl": "assets/orchestrate.png",
-        "title": "Orchestrate",
-        "desc": "this is a description"
+        "imageurl": "assets/translate.png",
+        "title": "translate.jpg",
+        "desc": "translate.jpg is a language learning app designed to allow the user to take a picture and then see the translations of objects in the photo. I connected our application with the Google Cloud Vision API and Google Translate API, and I parsed the results to output accurate translations. Technologies: Android, Java, Google Vision API, Google Translate API",
+        "extras": "",
+        "demolink": "",
+        "codelink": "https://github.com/nicklin37/translate.jpg"
     },
 
     {
         "id": 3,
-        "imageurl": "assets/crimerate.png",
-        "title": "Crime Rate Heat Map",
-        "desc": "this is a description"
+        "imageurl": "assets/orchestrate.png",
+        "title": "Orchestrate",
+        "desc": "Record yourself singing, and Orchestrate will automatically generate a background track matching the key and tempo that you're singing at. I implemented the algorithms for determining the key and tempo of a recorded audio file by utilizing Fourier transforms and a Python Tempo API. Winner of Best Web Hack. Technologies: Java, Python",
+        "extras": "Winner of Hack on the Hill IV",
+        "demolink": "",
+        "codelink": "https://github.com/nicklin37/Orchestrate"
     },
 
     {
         "id": 4,
-        "imageurl": "assets/hiddengems.png",
-        "title": "Hidden Gems",
-        "desc": "this is a description"
+        "imageurl": "assets/crimerate.png",
+        "title": "Crime Rate Heat Map",
+        "desc": "View crime rates as heat signatures in an interactive map from data that has been scraped from official crime report websites. I connected Google Maps with our web application and used Google Firebase to store data points that are viewed as heat signatures. Technologies: NodeJS, Google Maps API, Google Firebase, HTML/CSS",
+        "extras": "",
+        "demolink": "",
+        "codelink": "https://github.com/nicklin37/SBHacks2018"
     },
 
     {
         "id": 5,
-        "imageurl": "assets/hungryme.jpg",
-        "title": "Hungry Me",
-        "desc": "this is a description"
+        "imageurl": "assets/hiddengems.png",
+        "title": "Hidden Gems",
+        "desc": "Find underrated local food and recreation spots from crowd sourced data, and rate your own \"hidden gems\" for others to see. I designed and styled the front-end user interface for both the landing page and interactive map. Technologies: NodeJS, Google Maps API, HTML/CSS",
+        "extras": "",
+        "demolink": "",
+        "codelink": "https://github.com/nicklin37/HiddenGems"
     },
 
     {
         "id": 6,
+        "imageurl": "assets/hungryme.jpg",
+        "title": "Hungry Me",
+        "desc": "Manage the contents of your fridge, find recipes for what you have, and make shopping lists! This project is still being built... check back soon for updates!",
+        "extras": "",
+        "demolink": "",
+        "codelink": "https://github.com/nicklin37/HungryMe"
+    },
+
+    {
+        "id": 7,
         "imageurl": "assets/nachenblaster.png",
         "title": "NachenBlaster",
-        "desc": "this is a description"
+        "desc": "A good old survival game where the player has to blast the ships to get more points. I implemented all the gameplay features in object-oriented style. Technologies: C++",
+        "extras": "",
+        "demolink": "",
+        "codelink": ""  
     }
 
 ]

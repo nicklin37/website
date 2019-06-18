@@ -1,9 +1,10 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import { Jumbotron, Grid, Row, Col, Image, Button } from "react-bootstrap";
+import { HashLink as Link } from "react-router-hash-link";
+import { Button } from "react-bootstrap";
 import "../styles/Home.css";
 import About from "./About";
 import Projects from "./Projects";
+import Contact from "./Contact";
 
 export default class Home extends Component {
   render() {
@@ -17,17 +18,17 @@ export default class Home extends Component {
               building scalable projects and programming. Click on the explore
               to learn more about me!
             </p> */}
-            <Link to="/about">
+            <Link to="#about">
               <div id="button">
-                <Button bsStyle="primary" href="#about">
+                <Button componentClass={Link} bsStyle="primary" href="#about" to="/website#about">
                   Explore
                 </Button>
               </div>
             </Link>
           </div>
-          <About />
-          <Projects />
-        
+          <About/>
+          <Projects/>
+          <Contact/>
       </div>
     );
   }

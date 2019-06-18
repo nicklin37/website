@@ -4,23 +4,29 @@
         "imageurl": "assets/ucla.jpg",
         "title": "University of California, Los Angeles",
         "subtitle": "B.S. in Computer Science, Graduating June 2021",
-        "desc": "Highlighted coursework: Algorithms, Programming Languages, Operating Systems, Database Systems, Probability Theory, Linear Algebra, Computer Architecture"
+        "desc": "Highlighted coursework: Algorithms, Programming Languages, Operating Systems, Database Systems, Probability Theory, Linear Algebra, Computer Architecture",
+        "extras": "",
+        "link": ""
     },
 
     {
         "id": 2,
         "imageurl": "assets/ehealth.jpg",
         "title": "E-Health Research Lab, UCLA",
-        "subtitle": "Software Developer, May 2018-Present",
-        "desc": "oooh i love research"
+        "subtitle": "Software Developer, May 2018 - Present",
+        "desc": "BREATHE is a project that utilizes sensor-based research to prevent asthma attacks in pediatric patients. I work on server-side development in a Python-Flask environment with a NoSQL database. I've implemented database redesigns, enhanced security features, and server encryption.",
+        "extras": "Check out my lab!",
+        "link": "http://er.cs.ucla.edu/"
     },
 
     {
         "id": 3,
         "imageurl": "assets/esuc.png",
         "title": "Engineering Society of UCLA",
-        "subtitle": "President, 2019-Present \nExternal Vice President, 2018-2019",
-        "desc": "esuc rocks!"
+        "subtitle": "President, 2019 - Present \nExternal Vice President, 2018 - 2019",
+        "desc": "As President of the Engineering Society, I lead a board of 22 engineers aimed at connecting engineering students with the School of Engineering, industry, and one another. I've coordinated events for over 600 engineers, hosted company info sessions, and advocated for engineering students alongside the Associate Dean.",
+        "extras": "See what ESUC is about",
+        "link": "http://www.esuc.ucla.edu/"
     },
 
     {
@@ -28,7 +34,9 @@
         "imageurl": "assets/db.png",
         "title": "Daily Bruin",
         "subtitle": "Software Engineer, March 2018-May 2019",
-        "desc": "this is so cool!"
+        "desc": "Back-end developer for Meow, an internal tool utilized by journalists to publish their news articles across various social media platforms. I've added features to improve productivity for users and migrated front-end features to React",
+        "extras": "",
+        "link": ""
     }
     
 ]
