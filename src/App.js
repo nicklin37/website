@@ -13,10 +13,10 @@ class App extends Component {
       <Router>
         <div>
           <CustomNavBar />
-          <Route exact path="/website" component={Home} />
-          <Route path="/website#about" component={About} />
-          <Route path="/website#projects" component={Projects} />
-          <route path="/website#contact" component={Contact} />
+          <Route exact path="/" component={Home} />
+          <Route path="/#about" component={About} />
+          <Route path="/#projects" component={Projects} />
+          <route path="/#contact" component={Contact} />
         </div>
       </Router>
     );
