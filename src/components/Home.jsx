@@ -20,7 +20,7 @@ export default class Home extends Component {
             </p> */}
             <Link to="#about">
               <div id="button">
-                <Button componentClass={Link} bsStyle="primary" href="#about" to="/#about">
+                <Button componentClass={Link} bsStyle="primary" href="#about" to="/website#about">
                   Explore
                 </Button>
               </div>
