@@ -10,7 +10,7 @@ export default class CustomNavBar extends Component{
                 <Navbar default collapseOnSelect>
                     <Navbar.Header>
                         <Navbar.Brand>
-                            <Link to="/">Welcome</Link>
+                            <Link to="/website">Welcome</Link>
                         </Navbar.Brand>
                     </Navbar.Header>
                     <Navbar.Collapse>
