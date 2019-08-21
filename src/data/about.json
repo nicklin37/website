@@ -11,6 +11,16 @@
 
     {
         "id": 2,
+        "imageurl": "assets/symantec.png",
+        "title": "Symantec",
+        "subtitle": "Software Engineering Intern, June 2019 - September 2019",
+        "desc": "I designed and impemented a testing suite for the Norton licensing platform that manages all Symantec consumer products. This testing suite covers all APIs and UI components of this project, and I proposed designs to senior software engineers and data engineers. I was also responsible for uncovering and remediating production defects.",
+        "extras": "See what Symantec is about",
+        "link": "http://symantec.com/"
+    },
+
+    {
+        "id": 3,
         "imageurl": "assets/ehealth.jpg",
         "title": "E-Health Research Lab, UCLA",
         "subtitle": "Software Developer, May 2018 - Present",
@@ -20,7 +30,7 @@
     },
 
     {
-        "id": 3,
+        "id": 4,
         "imageurl": "assets/esuc.png",
         "title": "Engineering Society of UCLA",
         "subtitle": "President, 2019 - Present \nExternal Vice President, 2018 - 2019",
@@ -30,7 +40,7 @@
     },
 
     {
-        "id": 4,
+        "id": 5,
         "imageurl": "assets/db.png",
         "title": "Daily Bruin",
         "subtitle": "Software Engineer, March 2018-May 2019",
