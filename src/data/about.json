@@ -11,6 +11,26 @@
 
     {
         "id": 2,
+        "imageurl": "assets/google.png",
+        "title": "Google",
+        "subtitle": "Software Engineering Intern, June 2020 - September 2020",
+        "desc": "Worked in Google Cloud Monitoring to produce comprehensive system monitoring in Terraform for Cloud Operations Sandbox.",
+        "extras": "Check out Cloud Operations Sandbox!",
+        "link": "https://cloud-ops-sandbox.dev/"
+    },
+
+    {
+        "id": 3,
+        "imageurl": "assets/scai.png",
+        "title": "Scalable Analytics Institute at UCLA",
+        "subtitle": "Undergraduate Research Assistant, October 2020 - Present",
+        "desc": "Investigating recommendation systems for maximizing next-item accuracy.",
+        "extras": "",
+        "link": ""
+    },
+
+    {
+        "id": 4,
         "imageurl": "assets/symantec.png",
         "title": "Symantec",
         "subtitle": "Software Engineering Intern, June 2019 - September 2019",
@@ -20,17 +40,17 @@
     },
 
     {
-        "id": 3,
+        "id": 5,
         "imageurl": "assets/ehealth.jpg",
         "title": "E-Health Research Lab, UCLA",
-        "subtitle": "Software Developer, May 2018 - Present",
+        "subtitle": "Undergraduate Research Assistant, May 2018 - Present",
         "desc": "BREATHE is a project that utilizes sensor-based research to prevent asthma attacks in pediatric patients. I work on server-side development in a Python-Flask environment with a NoSQL database. I've implemented database redesigns, enhanced security features, and server encryption.",
         "extras": "Check out my lab!",
         "link": "http://er.cs.ucla.edu/"
     },
 
     {
-        "id": 4,
+        "id": 6,
         "imageurl": "assets/esuc.png",
         "title": "Engineering Society of UCLA",
         "subtitle": "President, 2019 - Present \nExternal Vice President, 2018 - 2019",
@@ -40,7 +60,7 @@
     },
 
     {
-        "id": 5,
+        "id": 7,
         "imageurl": "assets/db.png",
         "title": "Daily Bruin",
         "subtitle": "Software Engineer, March 2018-May 2019",
